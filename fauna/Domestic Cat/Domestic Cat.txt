@@ -1,0 +1,7 @@
+Domestic Cat / House Cat
+   Scientific Name: Felis catus
+   Category: Animal (Mammal / Carnivore)
+   Location Observed: AB-1
+   Habitat: Homes, hostels, residential areas, gardens, agricultural and urban environments
+   Ecological Importance: Predator of small animals; part of food web; may scavenge organic remains
+   Conservation Status: Not Evaluated (NE)
